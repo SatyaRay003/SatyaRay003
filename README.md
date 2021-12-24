@@ -3,12 +3,10 @@
 </h1>
 
 
-[![](https://road-to-kaggle-grandmaster.vercel.app/api/simple/subinium)](https://www.kaggle.com/subinium)
-
-[![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/notebook)](https://www.kaggle.com/subinium)
 
 
-[![](https://road-to-kaggle-expert.vercel.app/api/simple/satyabrataroy)](https://www.kaggle.com/satyabrataroy)
+
+[![satyabrataroy](https://road-to-kaggle-expert.vercel.app/api/simple/satyabrataroy)](https://www.kaggle.com/satyabrataroy)
 
 <!--
 **SatyaRay003/SatyaRay003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
