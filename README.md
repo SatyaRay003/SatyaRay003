@@ -4,11 +4,10 @@
 
 [![](https://road-to-kaggle-grandmaster.vercel.app/api/simple/satyabrataroy)](https://www.kaggle.com/satyabrataroy)
 
-<img src="https://i.gifer.com/5eKX.gif">
-
-[![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/satyabrataroy/notebook)](https://www.kaggle.com/satyabrataroy)
-
 
 ### About Me 🚀
-- 🔭 I’m currently working as an <b> Assistant System Engineer</b> @ <a href="https://www.tcs.com/"> Tata Consultancy Services</a>
-- 🌱 I’m currently learning <b> Machine Leaning & Deep Learning </b> Concepts
+- 🔭 I’m currently working as an <b>Backend Developer</b> @ <a href="https://www.tcs.com/"> Tata Consultancy Services</a>
+- 🌱 I’m passionate about <b> Machine Leaning & Deep Learning </b> Application
+
+
+[![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/satyabrataroy/notebook)](https://www.kaggle.com/satyabrataroy)
