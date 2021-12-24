@@ -16,11 +16,10 @@
 - 🎓 I've Completed my Graduation in <b>Electronics & Communication Engineering</b> (2020)
 - 🌱 I’m passionate about <b> Machine Leaning & Deep Learning </b> Application
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sana-shaikh-b30136176/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/satyabrata-roy/" height="20" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/sana306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/satyabrataroy" height="20" width="40" /></a>
-</p>
+### 📫 &nbsp; How to reach me:
+<a href="https://www.linkedin.com/in/satyabrata-roy/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:satya.roy003@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://kaggle.com/https://www.kaggle.com/satyabrataroy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/satyabrataroy" height="20" width="40" /></a>
 
 
 ![Satya's github stats](https://github-readme-stats.vercel.app/api?username=SatyaRay003&show_icons=true&hide_border=true)
