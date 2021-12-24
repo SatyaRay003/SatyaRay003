@@ -22,7 +22,7 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer">  <img src="https://www.vhv.rs/dpng/d/208-2081416_django-development-png-transparent-django-logo-png-download.png" alt="django" width="40" height="40"/> </a>
+  <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer">  <img src="https://image.pngaaa.com/344/1947344-middle.png" alt="django" width="40" height="40"/> </a>
   <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer">  <img src="https://img.icons8.com/ios-filled/50/000000/flask.png" alt="flask" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="40" height="40"/> </a> 
   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="Github" width="40" height="40"/> </a>
