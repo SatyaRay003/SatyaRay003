@@ -12,10 +12,15 @@
 </a>
 
 ### About Me 🚀
-- 🔭 I’m currently working as an <b>Backend Developer</b> @ <a href="https://www.tcs.com/"> Tata Consultancy Services</a>
-- 🎓 I've Completed my Graduation in Electronics & Communication Engineering on 2020
+- 🔭 I’m currently working as a <b>Backend Developer</b> @ <a href="https://www.tcs.com/"> Tata Consultancy Services</a>
+- 🎓 I've Completed my Graduation in <b>Electronics & Communication Engineering</b> (2020)
 - 🌱 I’m passionate about <b> Machine Leaning & Deep Learning </b> Application
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sana-shaikh-b30136176/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/satyabrata-roy/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/sana306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/satyabrataroy" height="30" width="40" /></a>
+</p>
 
 
 ![Satya's github stats](https://github-readme-stats.vercel.app/api?username=SatyaRay003&show_icons=true&hide_border=true)&nbsp;&nbsp;
