@@ -5,6 +5,7 @@
 [![](https://road-to-kaggle-grandmaster.vercel.app/api/simple/satyabrataroy)](https://www.kaggle.com/satyabrataroy)
 
 <img align="left" alt="Coding" width="400" src="https://i.gifer.com/5eKX.gif">
+
 [![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/satyabrataroy/notebook)](https://www.kaggle.com/satyabrataroy)
 
 
