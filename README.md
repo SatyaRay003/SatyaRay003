@@ -13,9 +13,12 @@
 
 ### About Me 🚀
 - 🔭 I’m currently working as an <b>Backend Developer</b> @ <a href="https://www.tcs.com/"> Tata Consultancy Services</a>
+- 🎓 I've Completed my Graduation in Electronics & Communication Engineering on 2020
 - 🌱 I’m passionate about <b> Machine Leaning & Deep Learning </b> Application
 
 
 
-
+![Satya's github stats](https://github-readme-stats.vercel.app/api?username=SatyaRay003&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![Satya's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SatyaRay003&layout=compact&langs_count=8&hide_border=true)
+<br />
 
