@@ -1,6 +1,6 @@
 <h1 align="center">
   Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm <a href="https://www.linkedin.com/in/satyabrata-roy/">Satyabrata Roy</a>
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/satyabrataroy">
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/satyabrataroy"><a href="https://www.kaggle.com/satyabrataroy"></a>
 </h1>
 
 [![](https://road-to-kaggle-grandmaster.vercel.app/api/simple/satyabrataroy)](https://www.kaggle.com/satyabrataroy)
