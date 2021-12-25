@@ -8,8 +8,8 @@
 
 
 <a href="https://www.kaggle.com/satyabrataroy">
-    <img align="right" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/satyabrataroy/notebook">
     <img align="right" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/satyabrataroy/discussion">
+    <img align="right" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/satyabrataroy/notebook">
 </a>
 
 ### 🚀 &nbsp; About Me:
